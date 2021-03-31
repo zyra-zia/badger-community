@@ -3,7 +3,7 @@
 
 Useful for people who are new to Badger DAO to get a complete list of resources all in one place.
 
-Demo: [badger-community.firebase.com](badger.community.firebase.com)
+Demo: [https://badger-community.web.app/](https://badger-community.web.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
